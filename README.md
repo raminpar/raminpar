@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raminpar
-- 👀 I’m interested in Camunda, Java Oracle Developer
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in Sap ERP ,Camunda, Java Oracle Developer
+- 🌱 I’m currently learning  ABAP Programing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : rparishan@gmail.com  mob : 00989124194998 
 
